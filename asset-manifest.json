@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Vi7ality/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/Vi7ality/goit-react-hw-02-feedback/static/js/main.02edf84d.js",
-    "index.html": "/Vi7ality/goit-react-hw-02-feedback/index.html",
-    "main.7acaea2f.css.map": "/Vi7ality/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.02edf84d.js.map": "/Vi7ality/goit-react-hw-02-feedback/static/js/main.02edf84d.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.02edf84d.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.02edf84d.js.map": "/goit-react-hw-02-feedback/static/js/main.02edf84d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
